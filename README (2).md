@@ -6,25 +6,45 @@
 
 <br/>
 
-[![BCA](https://img.shields.io/badge/BCA-Telangana%20University-6A5ACD?style=flat-square&logo=googlescholar&logoColor=white)](#)
-[![Oracle GenAI](https://img.shields.io/badge/Oracle-GenAI%20Professional-7B68EE?style=flat-square&logo=oracle&logoColor=white)](#)
+[![BCA](https://img.shields.io/badge/BCA-Telangana%20University-6A5ACD?style=flat-square&logo=googlescholar&logoColor=white)](#-certifications)
+[![Oracle GenAI](https://img.shields.io/badge/Oracle-GenAI%20Professional-7B68EE?style=flat-square&logo=oracle&logoColor=white)](#-certifications)
 [![Location](https://img.shields.io/badge/Location-Riyadh%2C%20Saudi%20Arabia-9370DB?style=flat-square&logo=googlemaps&logoColor=white)](#)
-[![Iqama](https://img.shields.io/badge/Iqama-Transferable-8A2BE2?style=flat-square&logo=checkmarx&logoColor=white)](#)
+[![Iqama](https://img.shields.io/badge/Iqama-Transferable%20%7C%20Available%20Immediately-8A2BE2?style=flat-square&logo=checkmarx&logoColor=white)](#)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6A5ACD?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Contact-7B68EE?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-GITHUB-USERNAME495@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-9370DB?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://syedmusharaf0.github.io/syedmusharaf.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6A5ACD?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-musharaf-5250372a6)
+[![Email](https://img.shields.io/badge/Email-Contact-7B68EE?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedmusharaf495@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-9370DB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syedmusharaf0)
+[![Phone](https://img.shields.io/badge/Call-0570430052-8A2BE2?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+966570430052)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20Views&color=8A2BE2&style=flat-square)
-![Followers](https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?label=Followers&style=flat-square&color=6A5ACD)
-![Stars](https://img.shields.io/github/stars/YOUR-GITHUB-USERNAME?label=Stars&style=flat-square&color=7B68EE)
+![Profile Views](https://komarev.com/ghpvc/?username=syedmusharaf0&label=Profile%20Views&color=8A2BE2&style=flat-square)
+![Followers](https://img.shields.io/github/followers/syedmusharaf0?label=Followers&style=flat-square&color=6A5ACD)
+![Stars](https://img.shields.io/github/stars/syedmusharaf0?label=Stars&style=flat-square&color=7B68EE)
 
 </div>
+
+<br/>
+
+## ⟡ Table of Contents
+
+- [About Me](#-about-me)
+- [Tech Stack](#-tech-stack)
+- [AI / ML Expertise](#-ai--ml-expertise)
+- [Featured Projects](#-featured-projects)
+- [Experience](#-experience)
+- [Achievements](#-achievements)
+- [Certifications](#-certifications)
+- [Coding Profiles](#-coding-profiles)
+- [GitHub Analytics](#-github-analytics)
+- [GitHub Trophies](#-github-trophies)
+- [Contribution Activity](#-contribution-activity)
+- [Contribution Snake](#-contribution-snake)
+- [Current Focus](#-current-focus)
+- [Connect](#-connect)
 
 <br/>
 
@@ -35,6 +55,7 @@ engineer:
   name: "Syed Musharaf"
   role: "AI Engineer | LLM Systems & RAG Architecture | Data Scientist"
   experience: "2+ years — production AI systems across FinTech, Healthcare & Compliance"
+  location: "Riyadh, Saudi Arabia (Transferable Iqama, Available Immediately)"
   philosophy: >
     I engineer AI systems the way a backend engineer engineers infrastructure —
     reliability first, hallucinations at zero tolerance, and every response
@@ -52,7 +73,7 @@ engineer:
 
 <div align="center">
 
-**🟣 Open To:** Full-time AI Engineering roles · LLM/RAG Architecture · Applied ML positions · Freelance & Contract AI builds · Remote or Riyadh-based (Transferable Iqama)
+**🟣 Open To:** Full-time AI Engineering roles · LLM/RAG Architecture · Applied ML positions · Freelance & Contract AI builds · Remote or Riyadh-based (Transferable Iqama, Available Immediately)
 
 </div>
 
@@ -255,13 +276,15 @@ Comprehensive EDA, correlation heatmaps, and AUC-ROC evaluation across three cla
 
 **Generative AI**
 
-[![Oracle](https://img.shields.io/badge/Oracle-Generative%20AI%20Professional-8A2BE2?style=for-the-badge&logo=oracle&logoColor=white)](#)
+[![Oracle](https://img.shields.io/badge/Oracle-Generative%20AI%20Professional-8A2BE2?style=for-the-badge&logo=oracle&logoColor=white)](<!-- ADD-CREDENTIAL-LINK-HERE -->)
 
 **Data Science**
 
-[![Full Stack Academy](https://img.shields.io/badge/Full%20Stack%20Academy-Data%20Scientist%20Certification-7B68EE?style=for-the-badge&logo=coursera&logoColor=white)](#)
+[![Full Stack Academy](https://img.shields.io/badge/Full%20Stack%20Academy-Data%20Scientist%20Certification-7B68EE?style=for-the-badge&logo=coursera&logoColor=white)](<!-- ADD-CREDENTIAL-LINK-HERE -->)
 
 </div>
+
+> 📝 The two badges above still point to placeholders — drop in your certificate/credential URLs (e.g. Oracle CertView, Credly) and they'll be clickable.
 
 <br/>
 
@@ -269,12 +292,14 @@ Comprehensive EDA, correlation heatmaps, and AUC-ROC evaluation across three cla
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-8A2BE2?style=for-the-badge&logo=leetcode&logoColor=white)](#)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-6A5ACD?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](#)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-7B68EE?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-9370DB?style=for-the-badge&logo=codechef&logoColor=white)](#)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-8A2BE2?style=for-the-badge&logo=leetcode&logoColor=white)](<!-- ADD-LEETCODE-URL-HERE -->)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-6A5ACD?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](<!-- ADD-GFG-URL-HERE -->)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-7B68EE?style=for-the-badge&logo=hackerrank&logoColor=white)](<!-- ADD-HACKERRANK-URL-HERE -->)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-9370DB?style=for-the-badge&logo=codechef&logoColor=white)](<!-- ADD-CODECHEF-URL-HERE -->)
 
 </div>
+
+> 📝 These four badges still need your real profile URLs — swap the placeholder comments for your actual profile links.
 
 <br/>
 
@@ -282,12 +307,12 @@ Comprehensive EDA, correlation heatmaps, and AUC-ROC evaluation across three cla
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&title_color=9D7FEA&icon_color=B39DDB&text_color=C9C9E0&bg_color=0d1117&border_color=302b63&hide_border=false" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&title_color=9D7FEA&text_color=C9C9E0&bg_color=0d1117&border_color=302b63&hide_border=false" width="34%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=syedmusharaf0&show_icons=true&theme=tokyonight&title_color=9D7FEA&icon_color=B39DDB&text_color=C9C9E0&bg_color=0d1117&border_color=302b63&hide_border=false" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedmusharaf0&layout=compact&theme=tokyonight&title_color=9D7FEA&text_color=C9C9E0&bg_color=0d1117&border_color=302b63&hide_border=false" width="34%"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=9D7FEA&fire=B39DDB&currStreakLabel=C9A9FF" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=syedmusharaf0&theme=tokyonight&hide_border=true&background=0D1117&ring=9D7FEA&fire=B39DDB&currStreakLabel=C9A9FF" width="60%"/>
 
 </div>
 
@@ -297,7 +322,7 @@ Comprehensive EDA, correlation heatmaps, and AUC-ROC evaluation across three cla
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8&title=Commits,Stars,PullRequest,Issues,Repositories,Followers,MultipleYears"/>
+<img src="https://github-profile-trophy.vercel.app/?username=syedmusharaf0&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8&title=Commits,Stars,PullRequest,Issues,Repositories,Followers,MultipleYears"/>
 
 </div>
 
@@ -307,7 +332,7 @@ Comprehensive EDA, correlation heatmaps, and AUC-ROC evaluation across three cla
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=9D7FEA&line=B39DDB&point=C9A9FF"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=syedmusharaf0&theme=react-dark&hide_border=true&bg_color=0D1117&color=9D7FEA&line=B39DDB&point=C9A9FF"/>
 
 </div>
 
@@ -317,11 +342,11 @@ Comprehensive EDA, correlation heatmaps, and AUC-ROC evaluation across three cla
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/syedmusharaf0/syedmusharaf0/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
-> This image only renders after you add the [snake generator GitHub Action](https://github.com/Platane/snk) to your `YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME` repo — it builds the SVG at that URL automatically on a schedule. Until it's set up, this line will show as a broken image; you can safely delete it if you don't want to configure the action.
+> This image only renders after you add the [snake generator GitHub Action](https://github.com/Platane/snk) to your `syedmusharaf0/syedmusharaf0` repo — it builds the SVG at that URL automatically on a schedule. Until it's set up, this line will show as a broken image; you can safely delete it if you don't want to configure the action.
 
 <br/>
 
@@ -349,10 +374,13 @@ Comprehensive EDA, correlation heatmaps, and AUC-ROC evaluation across three cla
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-YOUR-GITHUB-USERNAME495@gmail.com-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-GITHUB-USERNAME495@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6A5ACD?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-7B68EE?style=for-the-badge&logo=github&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-9370DB?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-syedmusharaf495%40gmail.com-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedmusharaf495@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-0570430052-6A5ACD?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+966570430052)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7B68EE?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-musharaf-5250372a6)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-9370DB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syedmusharaf0)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://syedmusharaf0.github.io/syedmusharaf.github.io/)
+
+📍 Riyadh, Saudi Arabia · Transferable Iqama · Available Immediately
 
 </div>
 
