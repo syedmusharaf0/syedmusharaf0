@@ -48,7 +48,7 @@
 engineer:
   name: "Syed Musharaf"
   role: "AI Engineer | LLM Systems & RAG Architecture | Data Scientist"
-  experience: "2+ years — production AI systems across FinTech, Healthcare & Compliance"
+  experience: "4+ years — production AI systems across FinTech, Healthcare & Compliance"
   philosophy: >
     I engineer AI systems the way a backend engineer engineers infrastructure —
     reliability first, hallucinations at zero tolerance, and every response
